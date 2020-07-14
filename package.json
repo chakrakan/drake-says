@@ -1,0 +1,26 @@
+{
+  "name": "drake-says",
+  "version": "1.0.0",
+  "description": "Discord bot that imitates the rapper Drake and spits out a 🔥 verse",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chakrakan/drake-says.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chakrakan/drake-says/issues"
+  },
+  "homepage": "https://github.com/chakrakan/drake-says#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.4.0"
+  }
+}
