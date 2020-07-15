@@ -23,4 +23,6 @@ Add a variable `DISCORD_BOT_TOKEN=` and leave it empty for now.
 
 ### Usage
 
-The only trigger command is `/drakesays`
+The only trigger command is `!drakesays`
+
+![demo](https://github.com/chakrakan/drake-says/blob/master/demo/demo.gif)
