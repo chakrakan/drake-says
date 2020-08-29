@@ -2,6 +2,8 @@
 
 Discord bot that imitates the rapper Drake and spits out a 🔥 verse for the memes. 
 
+> NOTE: I have an AWS free tier, and have a limit warning in place for the EC2 instance this bot is hosted on. Depending on monthly usage, the service will go down so I don't incur charges for the month. Sorry, in advance!
+
 ### Installation and running locally
 
 1. Clone this project to your system using 
