@@ -1,8 +1,10 @@
 # drake-says
 
-Discord bot that imitates the rapper Drake and spits out a 🔥 verse for the memes. 
+Aubrey Drake Graham is a Canadian rapper, singer, songwriter, actor, record producer, and entrepreneur.
 
-> NOTE: I have an AWS free tier, and have a limit warning in place for the EC2 instance this bot is hosted on. Depending on monthly usage, the service will go down so I don't incur charges for the month. Sorry, in advance!
+While he couldn't make it to your Discord server personally, he embodied his persona within this bot and left it as a gift for you. You can have him virtually 🙏🏼 bless your chat with musings, profound sayings, and lessons learned from his life experiences, as documented in songs spanning his entire career. 
+
+> NOTE: I have an AWS free tier, and have a limit warning in place for the EC2 instance this bot is hosted on. Depending on monthly usage, the service will go down so I don't incur charges for the month. You can check if it's up (status green) [here](https://discord.bots.gg/bots/732640663119593493). Sorry, in advance!
 
 ### Installation and running locally
 
