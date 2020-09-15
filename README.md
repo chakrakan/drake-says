@@ -4,7 +4,7 @@ Aubrey Drake Graham is a Canadian rapper, singer, songwriter, actor, record prod
 
 While he couldn't make it to your Discord server personally, he embodied his persona within this bot and left it as a gift for you. You can have him virtually 🙏🏼 bless your chat with musings, profound sayings, and lessons learned from his life experiences, as documented in songs spanning his entire career. 
 
-> NOTE: I have an AWS free tier, and have a limit warning in place for the EC2 instance this bot is hosted on. Depending on monthly usage, the service will go down so I don't incur charges for the month. You can check if it's up (status green) [here](https://discord.bots.gg/bots/732640663119593493). Sorry, in advance!
+> NOTE: I have an AWS free tier, and have a limit warning in place for the EC2 instance this bot AND the [leetcode bot](https://github.com/chakrakan/leetcode-disc) is hosted on. Depending on monthly usage, the service will go down so I don't incur charges for the month. If the leetcode bot is up, which you can check(status green) [here](https://discord.bots.gg/bots/732640663119593493), then so is Drake-bot. Sorry, in advance!
 
 ### Installation and running locally
 
